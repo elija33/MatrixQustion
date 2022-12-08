@@ -1,5 +1,5 @@
 # MatrixQustion
-                            Transpose of a matrix
+                                                Transpose of a matrix
 
 Transpose of a matris is obtained by changing rows to columns and columns to rows. In other words, transpose of A[N][M] is obtained by changing A[i][j] to A[j][i].
 
